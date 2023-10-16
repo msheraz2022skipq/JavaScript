@@ -1,0 +1,23 @@
+{
+  "name": "siriusjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msheraz2022skipq/SiriusJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msheraz2022skipq/SiriusJS/issues"
+  },
+  "homepage": "https://github.com/msheraz2022skipq/SiriusJS#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
